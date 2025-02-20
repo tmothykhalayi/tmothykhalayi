@@ -1,43 +1,50 @@
 # Hi, I'm Timothy Khalayi 👋
 
-Welcome to my GitHub profile! I’m passionate about coding and open-source development. Here’s a bit about me:
-
-- 👀 **I’m into**: Web development. I love building cool projects and exploring new technologies.
-- 🌱 **I’m improving my skills in these languages**: JavaScript, React, Node.js, Python, and working on improving my backend development skills.
-- 💞️ **I’m looking to collaborate on**: Open-source projects, web apps, and anything related to tech innovations! Feel free to reach out if you have ideas or need help with a project.
-- 📫 **How to reach me**: You can reach me via email at [timothykhalayi96@gmail.com](mailto:timothykhalayi96@gmail.com) or via GitHub.
-- ⚡ **Fun fact**: I love solving puzzles and discovering new music genres. I also have a fascination with space and astronomy!
+Welcome to my GitHub profile! I’m passionate about coding, problem-solving, and contributing to open-source projects. I enjoy building web applications and exploring new technologies to improve my skills and push the boundaries of what's possible in tech. Here’s a bit more about me:
 
 ---
 
-## 🔧 Technologies & Tools
+## 👨‍💻 About Me
 
-- **Languages**: JavaScript, HTML, CSS, C++, SQL, Python
-- **Frameworks & Libraries**: React, Node.js, Express
-- **Databases**: MySQL, MongoDB
-- **Tools**: Git, GitHub, Anaconda, VS Code, Postman
-- **Operating Systems**: Linux, macOS, Windows
+I’m a **web developer** with a strong focus on front-end and full-stack development. Over the years, I’ve gained hands-on experience with a variety of programming languages and frameworks. I am deeply interested in **JavaScript**, **React**, and **Node.js**, and I love building applications that are not only functional but also delightful to use.
 
----
+I’m constantly learning and exploring new technologies and techniques, whether it's diving deeper into **backend development**, enhancing my **problem-solving skills**, or getting more familiar with databases like **MongoDB** and **MySQL**.
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=timothykhalayi&show_icons=true&hide=prs)
-
-### 🧑‍💻 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timothykhalayi&hide=html&layout=compact)
+- 👀 **I’m currently learning**: Backend development with Node.js, GraphQL, and improving my understanding of data structures and algorithms.
+- 💞️ **I’m looking to collaborate on**: Open-source projects, building cool web apps, and tech innovations. I'm always open to new ideas and collaborations. 
+- 🧠 **My current focus**: Improving my skills in **server-side development** and working on **optimizing web performance**.
 
 ---
 
-## 📚 Featured Projects
+## 🌱 Technologies & Tools
 
-1. **Project 1**: A full-stack web app for task management built with React and Node.js. [Link to Repo]
-2. **Project 2**: Python script for automating data collection and analysis. [Link to Repo]
-3. **Project 3**: A personal website built using HTML, CSS, and JavaScript. [Link to Repo]
+### **Languages & Frameworks**:
+- **JavaScript** (React, Node.js)
+- **HTML5** and **CSS3** (Responsive Design, Flexbox, Grid)
+- **Python** (Scripting, Data Science)
+- **C++** (System Programming)
+- **SQL**(Database Management)
 
----
+### **Backend Development**:
+-**Express.js**
+- **REST APIs** and **GraphQL**
+- **Authentication** (JWT, OAuth)
+  
+### **Dev Tools**:
+- **Git** & **GitHub** (Version Control & Collaboration)
+- **VS Code** (Code Editing)
+## 🚀 Projects
 
-## 📫 How to reach me
+### **Task Manager App**
+A full-stack task management application where users can add, edit, and delete tasks. Built with **React** for the frontend and **Node.js**/**Express** for the backend, with a **MongoDB** database for storing tasks.
+- [View on GitHub](https://github.com/timothykhalayi/task-manager)
+
+### **Portfolio Website**
+A personal portfolio website showcasing my projects, skills, and blog posts. Built using **HTML5**, **CSS3**, and **JavaScript** with responsive design for both desktop and mobile.
+- [View on GitHub](https://github.com/timothykhalayi/portfolio)
+
+
+## 📫 How to reach me:
 
 - 📧 **Email**: [timothykhalayi96@gmail.com](mailto:timothykhalayi96@gmail.com)
 - 💬 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/timothykhalayi)
