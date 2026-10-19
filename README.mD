@@ -4,6 +4,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=670&height=44&lines=Software%20Developer%20%7C%20Problem%20Solver;Turning%20complex%20problems%20into%20elegant%20code" alt="Typing headlines" />
+</p>
+
 ### 🚀 About Me
 
 I'm Timothy Khalayi Manya, a Software Developer passionate about building scalable applications and solving real-world problems through technology. I work with modern web technologies and explore Artificial Intelligence, cloud computing, and open-source development to create impactful software solutions.
